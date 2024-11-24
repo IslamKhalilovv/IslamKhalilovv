@@ -1,12 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEc2VdsEAgJTQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725802496201?e=1738195200&v=beta&t=1MUSJmauBKY8GwTEufLvesfLEJxcTqbaz6lBBpQvU2g)
 
-
-
-
 <h1 align="center">Hi 👋, I'm Islam Khalilov</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=islamkhalilovv&label=Profile%20views&color=0e75b6&style=flat" alt="islamkhalilovv" /> </p>
 
 - 🌱 I’m currently learning **JAVA,Selenium**
 
@@ -28,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamkhalilovv&show_icons=true&locale=en" alt="islamkhalilovv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islamkhalilovv&" alt="islamkhalilovv" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=islamkhalilovv&label=Profile%20views&color=0e75b6&style=flat" alt="islamkhalilovv" /> </p>
